@@ -1,0 +1,14 @@
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\bin\Debug\netcoreapp2.2\AdvancedOTPService.deps.json
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\bin\Debug\netcoreapp2.2\AdvancedOTPService.runtimeconfig.json
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\bin\Debug\netcoreapp2.2\AdvancedOTPService.runtimeconfig.dev.json
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\bin\Debug\netcoreapp2.2\AdvancedOTPService.dll
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\bin\Debug\netcoreapp2.2\AdvancedOTPService.pdb
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\obj\Debug\netcoreapp2.2\AdvancedOTPService.csprojAssemblyReference.cache
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\obj\Debug\netcoreapp2.2\AdvancedOTPService.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\obj\Debug\netcoreapp2.2\AdvancedOTPService.RazorAssemblyInfo.cache
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\obj\Debug\netcoreapp2.2\AdvancedOTPService.RazorAssemblyInfo.cs
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\obj\Debug\netcoreapp2.2\AdvancedOTPService.AssemblyInfoInputs.cache
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\obj\Debug\netcoreapp2.2\AdvancedOTPService.AssemblyInfo.cs
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\obj\Debug\netcoreapp2.2\AdvancedOTPService.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\obj\Debug\netcoreapp2.2\AdvancedOTPService.dll
+C:\Users\LENOVO I5\source\repos\AdvancedOTPService\AdvancedOTPService\obj\Debug\netcoreapp2.2\AdvancedOTPService.pdb
